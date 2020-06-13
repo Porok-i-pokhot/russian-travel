@@ -37,10 +37,15 @@
 .header__lang-links {
   list-style-type: none;
   display: flex;
+  margin: 18px 0 0;
+  padding: 0;
 }
 
 .header__lang-link {
   color: #ffffff;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.2;
 }
 
 .header__lang-link_inactive {
@@ -87,4 +92,42 @@
   margin: 8px 0 0;
   letter-spacing: 0.15em;
   max-width: 159px;
+}
+
+.intro {
+  margin: 0 394px 92px auto;
+  max-width: 690px;
+  max-height: 428px;
+}
+
+.intro__title {
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 1.07;
+}
+
+.intro__text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.intro__list {
+  list-style-type: none;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.5;
+  padding: 0;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 16px;
+}
+
+.photo-grid__item {
+  max-width: 284px;
+  max-height: 213px;
 }
