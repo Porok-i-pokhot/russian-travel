@@ -14,3 +14,5 @@
 * Псевдоклассы
 * Медиазапросы
 * Относительные величины
+
+ссылка проекта на GitHub - https://porok-i-pokhot.github.io/russian-travel/.
