@@ -24,6 +24,6 @@
   .place__title {
     font-size: 32px;
     max-width: 339px;
-    margin: 0 auto 32px;
+    margin: 0 16px 32px;
   }
 }

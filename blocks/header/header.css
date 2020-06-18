@@ -2,7 +2,6 @@
 @import url(./__lang-links/header__lang-links.css);
 @import url(./__list-item/header__list-item.css);
 @import url(./__logo/header__logo.css);
-@import url(../underline/underline.css);
 
 .header {
   display: flex;
