@@ -4,10 +4,13 @@
   height: 100%;
   background-color: rgba(0, 0, 0, 0.3);
   top: 0;
-  display: flex;
+  /* display: flex;
   justify-content: center;
   flex-direction: column;
-  align-items: center;
+  align-items: center; */
 }
 
-
+.cover__overlay:hover {
+  opacity: 0.8;
+  /* background-color: rgba(0, 0, 0, 0.8); */
+}
