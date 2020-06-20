@@ -1,12 +1,9 @@
-/* @import url(./_active/header__lang-link_active.css); */
-@import url(./_inactive/header__lang-link_inactive.css);
-
 .header__lang-link {
   color: #ffffff;
   font-size: 24px;
   font-weight: 400;
   line-height: 1.2;
-  /* text-decoration: none; */
+  text-decoration: none;
 }
 
 .header__lang-link:hover {
