@@ -5,6 +5,14 @@
   background-color: #2A2C2F;
   opacity: 0.3;
   top: 0;
+  bottom: 0;
+  z-index: 10;
 }
 
+.cover__link:hover .cover__overlay {
+  opacity: 0.8;
+}
 
+/* .cover__overlay:hover {
+  opacity: 0.8;
+} */
